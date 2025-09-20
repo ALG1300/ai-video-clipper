@@ -1,3 +1,12 @@
+## 📸 Screenshots
+![Upload Page](Screenshotfrom2025-09-2016-44-42.png)
+![Screenshot 16-45-16](Screenshot%20from%202025-09-20%2016-45-16.png)
+![Screenshot 16-45-23](Screenshot%20from%202025-09-20%2016-45-23.png)
+![Screenshot 16-46-05](Screenshot%20from%202025-09-20%2016-46-05.png)
+![Screenshot 16-46-14](Screenshot%20from%202025-09-20%2016-46-14.png)
+![Screenshot 16-46-21](Screenshot%20from%202025-09-20%2016-46-21.png)
+
+
 # 🎬 Video Clipper
 A full-stack web application that takes a long MP4 video upload and automatically cuts it into shorter clips, including vertical **9:16 social-media-ready** versions for TikTok, YouTube Shorts, and Instagram Reels.
 
